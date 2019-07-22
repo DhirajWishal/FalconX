@@ -4,6 +4,6 @@ FalconX Flight Controller v2.0
 Drone (Quad-X) flight controller originally designed for the SLIIT Robofest 2019 by Team FalconX.
 Team consists of:
   Chamindu Abeysekera
-  Dhiraj Wishal
+  Dhiraj Wishaka
   Helitha Senarathne
   Saliya Bandara
