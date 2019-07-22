@@ -1,0 +1,3 @@
+# FalconX FC build property overrides
+# Code designed by Dhiraj Wishal for the Arduno based FC project.
+# This code is intended to be used with an Arduino UNO or any other Arduino based board.
